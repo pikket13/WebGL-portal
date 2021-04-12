@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae908d0e-8aa8-45fd-a508-d1d6b0585ea3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Portal2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/01-canvas/01-canvas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/01-canvas/01-canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/02-gui/02-gui.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/02-gui/02-gui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/03-shaders1/03-shaders1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/03-shaders1/03-shaders1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/03-shaders1/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/04-shaders2/04-shaders2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/04-shaders2/04-shaders2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/04-shaders2/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/04-shaders2/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/05-drawing/05-drawing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/05-drawing/05-drawing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/05-drawing/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/05-drawing/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/06-packed/06-packed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/06-packed/06-packed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/06-packed/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/06-packed/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/07-indexed/07-indexed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/07-indexed/07-indexed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/07-indexed/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/07-indexed/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/08-programs/08-programs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/08-programs/08-programs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/08-programs/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/08-programs/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/09-vao/09-vao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/09-vao/09-vao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/09-vao/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/09-vao/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/10-textures/10-textures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/10-textures/10-textures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/10-textures/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/10-textures/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/11-framebuffers/11-framebuffers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/11-framebuffers/11-framebuffers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/11-framebuffers/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/11-framebuffers/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/12-scene/12-scene.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/12-scene/12-scene.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/12-scene/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/12-scene/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/12-scene/cube.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/12-scene/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/13-interaction/13-interaction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/13-interaction/13-interaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/13-interaction/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/13-interaction/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/13-interaction/floor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/13-interaction/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/14-lights1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/14-lights1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/Camera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/Light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/Renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/14-lights1/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/15-lights2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/15-lights2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/Camera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/Floor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/Light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/Renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/15-lights2/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/16-lights3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/16-lights3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/Camera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/Floor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/Light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/Renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/WebGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/16-lights3/shaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Camera.js" beforeDir="false" afterPath="$PROJECT_DIR$/Camera.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal.js" beforeDir="false" afterPath="$PROJECT_DIR$/Portal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Renderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal.html" beforeDir="false" afterPath="$PROJECT_DIR$/portal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scene.json" beforeDir="false" afterPath="$PROJECT_DIR$/scene.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kbpAnOHbhcrG3A05bkzerYady2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matev\Downloads\webgl-portal(1)\rgti-portal\portal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae908d0e-8aa8-45fd-a508-d1d6b0585ea3" name="Default Changelist" comment="" />
+      <created>1605979003957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605979003957</updated>
+      <workItem from="1605979004997" duration="8431000" />
+      <workItem from="1606034762611" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

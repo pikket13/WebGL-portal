@@ -1,0 +1,374 @@
+{
+  "nodes": [
+    {
+      "type": "camera",
+      "aabb": {
+        "min": [-0.15, -1, -0.15],
+        "max": [0.15, 0.2, 0.15]
+      },
+      "aspect": 1,
+      "fov": 1.5,
+      "near": 0.01,
+      "far": 100,
+      "name": 0
+    },
+    {
+      "name": "jumpTile1",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "jumpTile2",
+      "type": "model",
+      "mesh": 0,
+      "texture": 6,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "translation": [0, 0, -5],
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "jumpTile3",
+      "type": "model",
+      "mesh": 0,
+      "texture": 8,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "translation": [0, 0, -10],
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "jumpTile4",
+      "type": "checkpoint",
+      "mesh": 0,
+      "texture": 8,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "translation": [0, 0, -17.5],
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "jumpTile5",
+      "type": "model",
+      "mesh": 0,
+      "texture": 8,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "translation": [7, 0, -17],
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "jumpTile5",
+      "type": "model",
+      "mesh": 0,
+      "texture": 8,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "translation": [7, 0, -11],
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "jumpTile6",
+      "type": "model",
+      "mesh": 0,
+      "texture": 6,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "translation": [10, 0, -5],
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "jumpTile7",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-2, -0.5, -2],
+        "max": [2, 0.5, 2]
+      },
+      "translation": [10, 0, 0],
+      "scale": [2, 0.5, 2]
+    },
+    {
+      "name": "roomFloor",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-7, -0.5, -7],
+        "max": [7, 0.5, 7]
+      },
+      "translation": [5, 25, -5],
+      "scale": [7, 0.5, 7]
+    },
+    {
+      "name": "wall1",
+      "type": "model",
+      "mesh": 0,
+      "texture": 7,
+      "aabb": {
+        "min": [-7, -2, -0.1],
+        "max": [7, 2, 0.1]
+      },
+      "translation": [5, 27.5, -11],
+      "scale": [7, 2, 0.1]
+    },
+    {
+      "name": "wall2",
+      "type": "model",
+      "mesh": 0,
+      "texture": 7,
+      "aabb": {
+        "min": [-7, -2, -0.1],
+        "max": [7, 2, 0.1]
+      },
+      "translation": [5, 27.5, 1],
+      "scale": [7, 2, 0.1]
+    },
+    {
+      "name": "wall3",
+      "type": "model",
+      "mesh": 0,
+      "texture": 7,
+      "aabb": {
+        "min": [-0.1, -2, -7],
+        "max": [0.1, 2, 7]
+      },
+      "translation": [0, 27.5, -5],
+      "scale": [0.1, 2, 7]
+    },
+    {
+      "name": "wall4",
+      "type": "model",
+      "mesh": 0,
+      "texture": 7,
+      "aabb": {
+        "min": [-0.1, -2, -7],
+        "max": [0.1, 2, 7]
+      },
+      "translation": [11, 27.5, -5],
+      "scale": [0.1, 2, 7]
+    },
+    {
+      "type": "portal",
+      "mesh": 1,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [10, 1.5, 1],
+      "rotation": [0, 0, 0]
+    },
+    {
+      "type": "portal",
+      "mesh": 1,
+      "texture": 5,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [8, 26.5, 0.89],
+      "rotation": [0, 0, 0]
+    },
+    {
+      "type": "portal",
+      "mesh": 1,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [2, 26.5, 0.89],
+      "rotation": [0, 0, 0]
+    },
+    {
+      "type": "portal",
+      "mesh": 1,
+      "texture": 5,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [2, 26.5, -10.89],
+      "rotation": [0, 3.14159, 0]
+    },
+    {
+      "name": "tlaGor3",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.3, -0.1, -1.3],
+        "max": [1.3, 0.1, 1.3]
+      },
+      "translation": [-19.3, 15, -18.7],
+      "scale": [1.3, 0.1, 1.3]
+    },
+    {
+      "name": "tlaGor4",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.3, -0.1, -1.3],
+        "max": [1.3, 0.1, 1.3]
+      },
+      "translation": [-22, 15, -15],
+      "scale": [1.3, 0.1, 1.3]
+    },
+    {
+      "name": "tlaGor5",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.3, -0.1, -1.3],
+        "max": [1.3, 0.1, 1.3]
+      },
+      "translation": [-22, 15, -10.3],
+      "scale": [1.3, 0.1, 1.3]
+    },
+    {
+      "name": "tlaGor6",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-0.7, -0.1, -0.7],
+        "max": [0.7, 0.1, 0.7]
+      },
+      "translation": [-24.5, 15, -6.1],
+      "scale": [0.7, 0.1, 0.7]
+    },
+    {
+      "name": "checkpoint1",
+      "type": "checkpoint",
+      "mesh": 0,
+      "texture": 3,
+      "rotation": [0, 1.571, 0],
+      "aabb": {
+        "min": [-4, -0.1, -4],
+        "max": [4, 0.1, 4]
+      },
+      "translation": [-31.6, 15, -3],
+      "scale": [4, 0.1, 4]
+    },
+    {
+      "name": "stenaGor1",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.5,-1.5,-0.1],
+        "max": [1.5,1.5,0.1]
+      },
+      "translation": [4, 2, -19],
+      "scale": [1.5,1.5,0.1]
+    },
+    {
+      "name": "stenaGor2",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.5,-1.5,-0.1],
+        "max": [1.5,1.5,0.1]
+      },
+      "translation": [-39.5,15.3,-2],
+      "scale": [1.5,1.5,0.1]
+    },
+    {
+      "name": "stenaGor3",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.5,-1.5,-0.1],
+        "max": [1.5,1.5,0.1]
+      },
+      "translation": [-41,14.6,-5],
+      "scale": [1.5,1.5,0.1]
+    },
+    {
+      "name": "stenaGor4",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.5,-1.5,-0.1],
+        "max": [1.5,1.5,0.1]
+      },
+      "translation": [-44.5,7,1],
+      "scale": [1.5,1.5,0.1]
+    },
+    {
+      "name": "stenaGor5",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-1.5,-1.5,-0.1],
+        "max": [1.5,1.5,0.1]
+      },
+      "translation": [-46,2.5,-3.5],
+      "scale": [1.5,1.5,0.1]
+    },
+    {
+      "name": "checkpoint2",
+      "type": "checkpoint",
+      "mesh": 0,
+      "texture": 3,
+      "rotation": [0, 1.571, 0],
+      "aabb": {
+        "min": [-4, -0.1, -4],
+        "max": [4, 0.1, 4]
+      },
+      "translation": [-52,-2, -1],
+      "scale": [4, 0.1, 4]
+    },
+    {
+      "type": "player",
+      "mesh": 2,
+      "texture": 3,
+      "translation": [1, -0.5, -0.5],
+      "scale": [15, 15, 15],
+      "rotation": [-1.2, 0, 0.75]
+    }
+  ],
+  "textures": [
+    "../common/images/crate-diffuse.png",
+    "../common/images/grass.png",
+    "../common/images/concrete.png",
+    "../common/images/crate-normal.png",
+    "../common/images/portal_blue.png",
+    "../common/images/portal_orange.png",
+    "../common/images/red.png",
+    "../common/images/tiles.png",
+    "../common/images/mossy.png",
+    "../common/images/brown.png"
+  ],
+  "meshes": [
+    "../common/models/cube.json",
+    "../common/models/portal.json",
+    "../common/models/roka.json"
+  ]
+}

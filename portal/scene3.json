@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "type": "camera",
+      "translation": [5, 10, -5],
+      "aabb": {
+        "min": [-0.15, -1, -0.15],
+        "max": [0.15, 0.2, 0.15]
+      },
+      "aspect": 1,
+      "fov": 1.5,
+      "near": 0.01,
+      "far": 100,
+      "name": 0
+    },
+    {
+      "name": "tla",
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-20, -0.1, -20],
+        "max": [20, 0.1, 20]
+      },
+      "translation": [5, 0, 5],
+      "scale": [20, 0.1, 20]
+    },
+    {
+      "name": "beton",
+      "type": "model",
+      "mesh": 0,
+      "texture": 3,
+      "aabb": {
+        "min": [-12,-2,-8],
+        "max": [12,2,8]
+      },
+      "translation": [8,2,-2],
+      "scale": [12,2,8]
+    },
+    {
+      "name": "stena",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-0.5,-5,-15],
+        "max": [0.5,5,15]
+      },
+      "translation": [20,5,5],
+      "scale": [0.5,5,15]
+    },
+    {
+      "name": "stena",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-15,-5,-0.5],
+        "max": [15,5,0.5]
+      },
+      "translation": [5,5,20],
+      "scale": [15,5,0.5]
+    },
+    {
+      "name": "stena",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-15,-5,-0.5],
+        "max": [15,5,0.5]
+      },
+      "translation": [5,5,-10],
+      "scale": [15,5,0.5]
+    },
+    {
+      "name": "stena",
+      "type": "model",
+      "mesh": 0,
+      "texture": 2,
+      "aabb": {
+        "min": [-0.5,-5,-15],
+        "max": [0.5,5,15]
+      },
+      "translation": [-10,5,5],
+      "scale": [0.5,5,15]
+    },
+    {
+      "name": "spodnji portal",
+      "type": "portal",
+      "mesh": 2,
+      "translation": [19.45, 1, 8.5],
+      "aabb": {
+        "min": [0, -1, 0],
+        "max": [0,  1, 0]
+      },
+      "rotation": [0, 3.142, 0]
+    },
+    {
+      "name": "zgornji portal",
+      "type": "portal",
+      "mesh": 2,
+      "translation": [10.5, 5, -9.45],
+      "rotation": [0, -1.571, 0]
+    },
+    {
+      "name": "zgornji okvir",
+      "type": "model",
+      "mesh": 3,
+      "texture": 0,
+      "translation": [10, 4, -9.55],
+      "rotation": [-1.571, 0, 0]
+    },
+    {
+      "name": "spodnji okvir",
+      "type": "model",
+      "mesh": 3,
+      "texture": 0,
+      "translation": [19.55, 0.1, 8],
+      "rotation": [-1.571, -1.571, 0]
+    },
+    {
+      "type": "player",
+      "mesh": 4,
+      "texture": 4,
+      "translation": [1, -0.5, -0.5],
+      "scale": [20, 20, 20],
+      "rotation": [-1.571, 0, 0.75]
+    }
+  ],
+  "textures": [
+    "../common/images/crate-diffuse.png",
+    "../common/images/grass.png",
+    "../common/images/concrete.png",
+    "../common/images/concreteS.png",
+    "../common/images/crate-normal.png"
+  ],
+  "meshes": [
+    "../common/models/cube.json",
+    "../common/models/pyramid.json",
+    "../common/models/portal.json",
+    "../common/models/okvir.json",
+    "../common/models/roka.json"
+  ]
+}

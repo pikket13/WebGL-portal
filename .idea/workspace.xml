@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9236119c-66c3-4b40-8b94-53d12fbcc1bf" name="Default Changelist" comment="Remove def texture" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ktDdBfuyQGMYVV8JYjx9wz6Pz9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/models" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common/models" />
+      <recent name="$PROJECT_DIR$/portal" />
+      <recent name="$PROJECT_DIR$/common/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9236119c-66c3-4b40-8b94-53d12fbcc1bf" name="Default Changelist" comment="" />
+      <created>1606511078394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606511078394</updated>
+      <workItem from="1606511079462" duration="4505000" />
+      <workItem from="1606516012615" duration="506000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1606511626791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606511626791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="WIP scene">
+      <created>1606512741039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606512741039</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge in changes">
+      <created>1606513104639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606513104639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dodaj portale">
+      <created>1606515167237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606515167237</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Remove def texture">
+      <created>1606515255237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606515255237</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="WIP scene" />
+    <MESSAGE value="Merge in changes" />
+    <MESSAGE value="Dodaj portale" />
+    <MESSAGE value="Remove def texture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove def texture" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1658" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606515274392">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state x="1658" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.36.2560.1404@0.36.2560.1404" timestamp="1606515274392" />
+    <state x="1461" y="274" width="951" height="1128" key="CommitChangelistDialog2" timestamp="1606515301012">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state x="1461" y="274" width="951" height="1128" key="CommitChangelistDialog2/0.36.2560.1404@0.36.2560.1404" timestamp="1606515301012" />
+    <state x="1614" y="471" width="612" height="534" key="find.popup" timestamp="1606515183816">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state x="1614" y="471" width="612" height="534" key="find.popup/0.36.2560.1404@0.36.2560.1404" timestamp="1606515183816" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1606516104609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606516104609" />
+    <state x="1583" y="356" width="672" height="678" key="search.everywhere.popup" timestamp="1606515351256">
+      <screen x="0" y="36" width="2560" height="1404" />
+    </state>
+    <state x="1583" y="356" width="672" height="678" key="search.everywhere.popup/0.36.2560.1404@0.36.2560.1404" timestamp="1606515351256" />
+  </component>
+</project>
